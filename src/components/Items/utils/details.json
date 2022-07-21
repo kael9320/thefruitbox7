@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "sku": "001",
+        "name": "Producto 1",
+        "category": "verduras",
+        "price": "10",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "img": "https://cdn.shopify.com/s/files/1/0006/4510/3652/products/1_bbbf99e5-9c28-436d-b267-edd409e58701_700x700.png?v=1626860460"
+    },
+    {
+        "id": 2,
+        "sku": "002",
+        "name": "Producto 2",
+        "category": "promociones",
+        "price": "10",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "img": "https://supermercadobeccar.com.ar/uploads/items/7790310006917.jpg"
+    },
+    {
+        "id": 3,
+        "sku": "003",
+        "name": "Producto 3",
+        "category": "harina",
+        "price": "10",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "img": "https://dojiw2m9tvv09.cloudfront.net/59624/product/M_250685.png?455"
+    },
+    {
+        "id": 4,
+        "sku": "004",
+        "name": "Producto 3",
+        "category": "promociones",
+        "price": "10",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "img": "https://cdn.shopify.com/s/files/1/1632/3739/products/980016861m_c215ef82-a998-4da5-a64d-d03160471e4d_500x.jpg?v=1610982477"
+    },
+    {
+        "id": 5,
+        "sku": "005",
+        "name": "Producto 3",
+        "category": "embolsados",
+        "price": "10",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "img": "https://pacardylwpmedia.s3.us-east-2.amazonaws.com/wp-content/uploads/2020/09/02185259/7702025126323.jpg"
+    },
+    {
+        "id": 6,
+        "sku": "006",
+        "name": "Producto 3",
+        "category": "promociones",
+        "price": "10",
+        "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMk43KR8M6wmXuMeXQnrF6y5kFSZEUegqOMNUS6BKH2Z0inyvuyeXU9mMyHKM2076qvMA&usqp=CAU"
+    }
+]
